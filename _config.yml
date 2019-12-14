@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filipe Vargas Ferreira"
+title                    : #"Filipe Vargas Ferreira"
 title_separator          : "-"
 name                     : &name "Filipe Vargas Ferreira"
 description              : &description "Professor @ UNICAMP"
@@ -55,16 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : #&twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -83,7 +74,7 @@ author:
   name             : "Filipe Vargas Ferreira"
   avatar           : "profile.png"
   bio              : "Professor @ UNICAMP"
-  location         : "Location"
+  location         : https://www.google.com.br/maps/place/UNICAMP+-+Faculdade+de+Engenharia+Qu%C3%ADmica/@-22.8212374,-47.0666071,17z/data=!3m1!4b1!4m5!3m4!1s0x94c8c6ae815acfd5:0x9f845946a54934ab!8m2!3d-22.8212424!4d-47.0644131
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
