@@ -22,18 +22,28 @@ author_profile: true
         </div>    	
 </div>
 
-<div class="split right">
-  <form action="https://formspree.io/eduardo.vargas.ferreira1@gmail.com" method="POST">
-	<fieldset>
-    <input type="text" placeholder="Name" name="name">
-    <input type="email" placeholder="E-Mail Address" name="_replyto">
-	<div>
-		<textarea rows="10" name="comment" id="comment" placeholder="Message"></textarea>
-	</div>
-	  <input type="submit" value="Send e-mail">
-  </fieldset>
-    
-</form> 	
+ <div class="container">
+  <form action="action_page.php">
+
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+
+    <label for="country">Country</label>
+    <select id="country" name="country">
+      <option value="australia">Australia</option>
+      <option value="canada">Canada</option>
+      <option value="usa">USA</option>
+    </select>
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit">
+
+  </form>
 </div> 
 
 
