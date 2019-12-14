@@ -8,4 +8,4 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S01694332173075
 ---
 
 
-You can also find my articles on [DOI](https://doi.org/10.1016/j.apsusc.2017.03.098){: .btn .btn--success}
+[DOI](https://doi.org/10.1016/j.apsusc.2017.03.098){: .btn .btn--success}
