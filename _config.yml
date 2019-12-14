@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : <link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
+title                    : Home
 title_separator          : #"-"
 name                     : &name "Filipe Vargas Ferreira"
 description              : &description "Professor @ UNICAMP"
