@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "home"
+title                    : "<i class="fas fa-band-aid"></i>"
 title_separator          : "-"
 name                     : &name "Filipe Vargas Ferreira"
 description              : &description "Professor @ UNICAMP"
