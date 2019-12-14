@@ -77,7 +77,7 @@ author:
   location         : "Campinas, SP - Brazil" # arrumar a localização no include/autor-profile
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.br/citations?user=6Txu3hwAAAAJ&hl=pt-BR"
   email            :  filipevargasf@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
