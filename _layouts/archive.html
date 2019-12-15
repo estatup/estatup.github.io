@@ -19,7 +19,9 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
-	   <style>
+
+    {% endunless %}
+	  	   <style>
 body {
 	
     background-image: url('/images/azul.jpeg');
@@ -38,7 +40,6 @@ body {
  } 
 	
 </style>
-    {% endunless %}
     {{ content }}
   </div>
 </div>
