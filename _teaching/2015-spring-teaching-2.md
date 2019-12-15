@@ -1,17 +1,11 @@
 ---
 title: "Inferência Estatística"
-layout: archive
+layout: archive3
 date: 2015-01-01
 
 ---
 
-<br>
-   
-	 <br>
-          
- </br>
-	
- </br>
+
  
 * **Professor:** Filipe Vargas Ferreira
   * **Curso:** Estatística.
