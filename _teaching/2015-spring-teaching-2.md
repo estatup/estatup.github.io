@@ -5,11 +5,11 @@ date: 2015-01-01
 
 ---
 
-\_
+\
 
-\_
+\
 
-\_
+\
 
 <h1>Inferência Estatística</h1>
  
