@@ -83,17 +83,17 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#2980b9, $gray, 25%);
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
       &:hover {
-        color: #2980b9;
+        <!--- color: $link-color-hover; --->
       }
 
       &.current {
-        color: #2980b9;
-        background: #2980b9;
+        color: #fff;
+        background: $primary-color;
       }
 
       &.disabled {
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#2980b9, $gray, 50%);
+    color: mix(#fff, $gray, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -340,7 +340,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: #2980b9;
+      color: #fff;
     }
   }
 }
@@ -374,7 +374,7 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #000000;
+  background-color: #fff;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: #2980b9;
+    background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
