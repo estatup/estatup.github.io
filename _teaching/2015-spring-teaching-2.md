@@ -5,7 +5,15 @@ date: 2015-01-01
 
 ---
 
+	<p>
+   
+	 <p>
+          
+ </p>
+	
+ </p>
 
+<h2>Inferência Estatística</h2>
  
 * **Professor:** Filipe Vargas Ferreira
   * **Curso:** Estatística.
