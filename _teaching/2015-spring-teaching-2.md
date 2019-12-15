@@ -2,7 +2,6 @@
 title: "Inferência Estatística"
 collection: teaching
 date: 2015-01-01
-location: "City, Country"
 
 ---
 
