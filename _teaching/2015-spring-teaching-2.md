@@ -5,11 +5,12 @@ date: 2015-01-01
 
 ---
 
-\
 
-\
-
-\
+<p style="margin-bottom:.7cm;"></p> 
+<h3>
+  
+</h3>
+<p style="margin-bottom:.3cm;"></p>
 
 <h1>Inferência Estatística</h1>
  
@@ -24,9 +25,9 @@ date: 2015-01-01
 
 
 <p style="margin-bottom:.7cm;"></p> 
-<h4>
+<h3>
    <font color="#2980b9">Programa da disciplina</font> 
-</h4>
+</h3>
 <p style="margin-bottom:.3cm;"></p>
 
    - Modelos Estatísticos:
