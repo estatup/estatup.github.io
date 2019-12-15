@@ -75,11 +75,11 @@ author:
   avatar           : "profile.png"
   bio              : "Professor @ UNICAMP"
   location         : "Campinas, SP - Brazil" # arrumar a localização no include/autor-profile
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.br/citations?user=6Txu3hwAAAAJ&hl=en"
   email            :  filipevargasf@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  http://lattes.cnpq.br/6558239317195817
   uri              :
   bitbucket        :
   codepen          :
