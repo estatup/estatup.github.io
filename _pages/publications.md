@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<h1>
+Publications
+</h1>
 
 <p style="margin-bottom:.7cm;"></p>
 <h2>
