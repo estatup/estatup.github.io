@@ -6,7 +6,12 @@
    Default
    ========================================================================== */
 .sidebar{background:#ff5656;}
-.sidebar {width:200.5%;}
+.content {
+width: 610px;
+}
+.sidebar {
+width: 260px;
+}
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
