@@ -6,13 +6,9 @@ date: 2015-01-01
 ---
 
 
-<p style="margin-bottom:1cm;"></p> 
-<h3>
-  
-</h3>
-<p style="margin-bottom:.5cm;"></p>
-
-<h1>Inferência Estatística</h1>
+<p style="margin-bottom:2cm;"></p> 
+<h2>Inferência Estatística</h2>
+ <p style="margin-bottom:2cm;"></p>
  
 * **Professor:** Filipe Vargas Ferreira
   * **Curso:** Estatística.
