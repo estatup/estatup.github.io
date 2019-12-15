@@ -6,7 +6,7 @@ body {
 	
     background-attachment: fixed;
     background-image: url('/images/azul.jpeg');
-    background-size: 600px 620px;
+    background-size: 800px 420px;
     display: block;
     position: absolute; 
     left: 0;
@@ -39,6 +39,7 @@ body {
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
+	   <div style="background-image: url('/images/azul.jpeg');"> 
     {% endunless %}
     {{ content }}
   </div>
