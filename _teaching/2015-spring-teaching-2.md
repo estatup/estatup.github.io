@@ -8,6 +8,14 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
+	<br>
+   
+	 <br>
+          
+ </br>
+	
+ </br>
+ 
 * **Professor:** Filipe Vargas Ferreira
   * **Curso:** Estatística.
   * **Período:** 2020/2.
