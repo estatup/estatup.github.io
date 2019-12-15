@@ -1,13 +1,16 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<p style="margin-bottom:1cm;"></p>
+<h1>
+Curriculum vitae
+</h1>
+<p style="margin-bottom:1cm;"></p>
 
 Education
 ======
