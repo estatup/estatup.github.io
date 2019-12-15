@@ -6,7 +6,7 @@
    Default
    ========================================================================== */
 .sidebar{background:#ff5656;}
-
+.sidebar {width:31.5%;}
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -126,7 +126,7 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 100px;
+    margin-top: 10px;
     margin-bottom: 20px;
   }
 }
