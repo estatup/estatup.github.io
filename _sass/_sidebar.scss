@@ -5,16 +5,11 @@
 /*
    Default
    ========================================================================== */
-.sidebar{background:#ff5656;}
-.content {
-width: 610px;
-}
+.sidebar{background:#fff;}
+
 .sidebar {
-width: 860px;
-}
-/*.sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);*/
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 2em;
