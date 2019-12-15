@@ -5,11 +5,12 @@
 /*
    Default
    ========================================================================== */
-.sidebar{background: $background-color;}
+
 
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
+   background: $background-color;
 
   @include clearfix();
   margin-bottom: 2em;
@@ -51,7 +52,7 @@
 }
 
 .sidebar__right {
-  margin-bottom: 1em;
+  margin-bottom: 0em;
 
   @include breakpoint($large) {
     position: relative;
