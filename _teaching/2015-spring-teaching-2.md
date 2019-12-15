@@ -1,5 +1,6 @@
 ---
 title: "Inferência Estatística"
+layout: archive
 date: 2015-01-01
 
 ---
