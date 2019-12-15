@@ -6,11 +6,11 @@ date: 2015-01-01
 ---
 
 
-<p style="margin-bottom:.7cm;"></p> 
+<p style="margin-bottom:1cm;"></p> 
 <h3>
   
 </h3>
-<p style="margin-bottom:.3cm;"></p>
+<p style="margin-bottom:.5cm;"></p>
 
 <h1>Inferência Estatística</h1>
  
