@@ -19,13 +19,13 @@ author_profile: true
 - [Ferreira, F.V.](); Souza, L.P.; Martins, T.M.M.; et al. **Nanocellulose/bioactive glass cryogels as scaffolds for bone regeneration**. *Nanoscale* 11 (2019) 19842-19849. [DOI](https://doi.org/10.1039/C9NR05383B){: .btn .btn--success}
 
 
-- __Ferreira, F.V.__; Pinheiro, I.F.; Souza, S.F.; Mei, L.H.I.; Lona, L.M.F. **Polymer composites reinforced with natural fibers and nanocellulose in the automotive industry: a short review**. *Journal of Composites Science* 3 (2019) 51. [DOI](https://doi.org/10.3390/jcs3020051){: .btn .btn--success}
+- [Ferreira, F.V.](); Pinheiro, I.F.; Souza, S.F.; Mei, L.H.I.; Lona, L.M.F. **Polymer composites reinforced with natural fibers and nanocellulose in the automotive industry: a short review**. *Journal of Composites Science* 3 (2019) 51. [DOI](https://doi.org/10.3390/jcs3020051){: .btn .btn--success}
 
 
-- __Ferreira, F.V.__; Trindade, G.N.; Lona, L.M.F.; Bernardes, J.S.; Gouveia, R.F. **LDPE-based composites reinforced with surface modified cellulose fibres: 3D morphological and morphometrical analyses to understand the improved mechanical performance**. *European Polymer Journal* 117 (2019) 105-113. [DOI](https://doi.org/10.1016/j.eurpolymj.2019.05.005){: .btn .btn--success}
+- [Ferreira, F.V.](); Trindade, G.N.; Lona, L.M.F.; Bernardes, J.S.; Gouveia, R.F. **LDPE-based composites reinforced with surface modified cellulose fibres: 3D morphological and morphometrical analyses to understand the improved mechanical performance**. *European Polymer Journal* 117 (2019) 105-113. [DOI](https://doi.org/10.1016/j.eurpolymj.2019.05.005){: .btn .btn--success}
 
 
-- Pinheiro, I.F.; __Ferreira, F.V.__; Alves, G.F.; Rodolfo Jr, A.; Morales, A.R.; Mei, L.H.I. **Biodegradable PBAT-based nanocomposites reinforced with functionalized cellulose nanocrystals from Pseudobombax munguba: Rheological, thermal, mechanical and biodegradability properties**. *Journal of Polymers and the Environment* 27 (2019) 757766. [DOI](https://doi.org/10.1007/s10924-019-01389-z){: .btn .btn--success}
+- Pinheiro, I.F.; [Ferreira, F.V.](); Alves, G.F.; Rodolfo Jr, A.; Morales, A.R.; Mei, L.H.I. **Biodegradable PBAT-based nanocomposites reinforced with functionalized cellulose nanocrystals from Pseudobombax munguba: Rheological, thermal, mechanical and biodegradability properties**. *Journal of Polymers and the Environment* 27 (2019) 757766. [DOI](https://doi.org/10.1007/s10924-019-01389-z){: .btn .btn--success}
 
 
 - __Ferreira, F.V.__; Mariano, M.; Pinheiro, I.F.; Cazalini, E.M.; Souza, D.H.S.; Lepesqueur, L.S.S.; Koga-Ito, C.Y.; Gouveia,  R.F.; Lona, L.M.F. **Cellulose nanocrystal-based poly(butylene adipate-co-terephthalate) nanocomposites covered with antimicrobial silver thin films**. *Polymer Engineering and Science* 59 (2019) E356-E365. [DOI](https://doi.org/10.1002/pen.25066){: .btn .btn--success}
