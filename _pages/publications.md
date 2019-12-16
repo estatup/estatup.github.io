@@ -5,7 +5,23 @@ author_profile: true
 ---
 
 <div class="row" style="background:transparent url('/images/tijolo1.jpg') no-repeat center center /cover">
+<br>
+   
+   <br>
 
+<br>
+   
+   <br>
+   
+   
+</br>
+   
+</br>
+
+</br>
+
+
+</br>   
 <p style="margin-bottom:.7cm;"></p>
 <h2>
    <font color="#2980b9">2019</font> 
