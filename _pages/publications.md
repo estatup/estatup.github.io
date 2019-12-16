@@ -16,7 +16,7 @@ author_profile: true
 
 <p style="margin-bottom:.3cm;"></p>
 
-- [Ferreira, F.V.]; Souza, L.P.; Martins, T.M.M.; et al. **Nanocellulose/bioactive glass cryogels as scaffolds for bone regeneration**. *Nanoscale* 11 (2019) 19842-19849. [DOI](https://doi.org/10.1039/C9NR05383B){: .btn .btn--success}
+- [Ferreira, F.V.](); Souza, L.P.; Martins, T.M.M.; et al. **Nanocellulose/bioactive glass cryogels as scaffolds for bone regeneration**. *Nanoscale* 11 (2019) 19842-19849. [DOI](https://doi.org/10.1039/C9NR05383B){: .btn .btn--success}
 
 
 - __Ferreira, F.V.__; Pinheiro, I.F.; Souza, S.F.; Mei, L.H.I.; Lona, L.M.F. **Polymer composites reinforced with natural fibers and nanocellulose in the automotive industry: a short review**. *Journal of Composites Science* 3 (2019) 51. [DOI](https://doi.org/10.3390/jcs3020051){: .btn .btn--success}
