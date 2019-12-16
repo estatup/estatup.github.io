@@ -32,10 +32,10 @@ redirect_from:
 </head>
 
 <body>
-<p style="margin-bottom:.7cm;"></p>
+<p style="margin-bottom:2cm;"></p>
 
 
-<div class="row" style="background:transparent url('/images/tijolo.jpg') no-repeat center center /cover">
+<div class="row">
 <div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
   </div>
