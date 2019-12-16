@@ -14,11 +14,6 @@ author_profile: true
    <br>
    
    
-</br>
-   
-</br>
-
-</br>
 
 
 <p style="margin-bottom:.7cm;"></p>
