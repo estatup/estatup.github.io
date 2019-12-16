@@ -5,6 +5,15 @@ author_profile: true
 ---
 
 
+<p style="margin-bottom:.7cm;"></p>
+
+<h2>
+
+<font color="#2980b9">2019</font>
+
+</h2>
+
+<p style="margin-bottom:.3cm;"></p>
 
 - Ferreira, F.V.; Souza, L.P.; Martins, T.M.M.; et al. **Nanocellulose/bioactive glass cryogels as scaffolds for bone regeneration**. *Nanoscale* 11 (2019) 19842-19849. [DOI](https://doi.org/10.1039/C9NR05383B){: .btn .btn--success}
 
@@ -29,6 +38,14 @@ author_profile: true
 
 - Ferreira, F.V.; Cividanes, L.S; Gouveira, R.F.; Lona, L.M.F. **An overview on properties and applications of poly(butylene adipate-co-terephthalate) - PBAT based composites**. *Polymer Engineering and Science * 59 (2019) E7-E15. [DOI](https://doi.org/10.1002/pen.24770){: .btn .btn--success}
 
+<p style="margin-bottom:.7cm;"></p>
 
+<h2>
+
+<font color="#2980b9">2018</font>
+
+</h2>
+
+<p style="margin-bottom:.3cm;"></p>
 
 
