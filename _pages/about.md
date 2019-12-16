@@ -54,16 +54,7 @@ redirect_from:
 
 
 
- </br>
-	
-	
-
- </br>
-
- </br>   
- </br>
-
- </br>
+ 
 	<div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
   </div>
