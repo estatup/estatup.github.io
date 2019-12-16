@@ -30,38 +30,13 @@ redirect_from:
 }
 </style>
 </head>
-<body>
 
+<body>
+<p style="margin-bottom:.7cm;"></p>
 
 
 <div class="row" style="background:transparent url('/images/tijolo.jpg') no-repeat center center /cover">
-<br>
-
-
-
-	 <br>
-
-
-
-       	 <br>
-
-		 <br>
-
- <br>
-
-
-
- </br>
-	
-	
-
- </br>
-
- </br>   
- </br>
-
- </br>
-	<div class="column">
+<div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
   </div>
   <div class="column">
