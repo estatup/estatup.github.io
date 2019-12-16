@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="row" style="background:transparent url('/images/tijolo.jpg') no-repeat center center /cover">
+<div class="row" style="background:transparent url('/images/tijolo1.jpg') no-repeat center center /cover">
 
 <p style="margin-bottom:4cm;"></p>
 <h1>
