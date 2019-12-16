@@ -3,6 +3,15 @@ layout: archive
 permalink: /publications/
 author_profile: true
 ---
+
+<div class="row" style="background:transparent url('/images/tijolo.jpg') no-repeat center center /cover">
+	<br>
+   
+	 <br>
+          
+ </br>
+	
+ </br>
 <p style="margin-bottom:1cm;"></p>
 <h1>
 Publications
@@ -29,3 +38,4 @@ Publications
 
 - F.V. Ferreira, M. Mariano, ... **TITULO**. *Nome da revista*. Volume, página, ano. [DOI](https://doi.org/10.1016/j.apsusc.2017.03.098){: .btn .btn--success}
 
+</div>
