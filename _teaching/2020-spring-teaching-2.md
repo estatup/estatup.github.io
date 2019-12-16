@@ -1,7 +1,7 @@
 ---
-title: "Inferência Estatística"
+title: "Inferência Estatística 2"
 layout: layout3
-date: 2015-01-01
+date: 2020-01-14
 
 ---
 
