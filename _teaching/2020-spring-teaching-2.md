@@ -19,6 +19,7 @@ date: 2020-01-14
      * Sexta-feira 20:40 - 22:00, PA-01.
   * **Atendimento:** Sexta, 17h30-18h30.
 
+[Link pdf](https://estatup.github.io/files/paper1.pdf)
 
 <p style="margin-bottom:.7cm;"></p> 
 <h3>
