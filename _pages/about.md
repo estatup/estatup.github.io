@@ -1,10 +1,8 @@
 ---
-permalink: /
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+layout: archive
   - /about/
   - /about.html
+author_profile: true
 ---
 
 <head>
