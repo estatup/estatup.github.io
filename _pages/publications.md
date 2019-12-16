@@ -4,6 +4,34 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<p style="margin-bottom:.7cm;"></p>
+
+<h2>
+
+<font color="#2980b9">Book</font>
+
+</h2>
+
+<p style="margin-bottom:.3cm;"></p>
+
+
+- [Ferreira, F.V.](); Cividanes, L.S.; Brito, F.S.; Menezes, B.R.C.; Francisco, W.; Simonetti, E.A.N.;Thim, G.P. **Functionalizing Graphene and Carbon Nanotubes**. *Springer International Publishing* (2016) 1-61. [DOI](https://doi.org/10.1007/978-3-319-35110-0){: .btn .btn--success}
+
+
+<p style="margin-bottom:.7cm;"></p>
+
+<h2>
+
+<font color="#2980b9">Book Chapter</font>
+
+</h2>
+
+<p style="margin-bottom:.3cm;"></p>
+
+
+- [Ferreira, F.V.](); Francisco, W.; Menezes, B.R.C.; Biagioni, A.F.; Coutinho, A.R.; Cividanes, L.S. **Synthesis, Characterization, and Applications of Carbon Nanotubes. In Carbon-Based Nanofillers and Their Rubber Nanocomposites**. *Elsevier* (2019) 1-49. [DOI](https://doi.org/10.1016/B978-0-12-813248-7.00001-8){: .btn .btn--success}
+
 <p style="margin-bottom:2cm;"></p>
 
 <p style="margin-bottom:.7cm;"></p>
@@ -116,30 +144,3 @@ author_profile: true
 
 - Francisco, W.; [Ferreira, F.V.](); Cividanes, L.S.; Coutinho, A.R.; Thim, G.P. **Functionalization of multi-walled carbon nanotube and mechanical property of epoxy-based nanocomposite**. *Journal of Aerospace Technology and Management* 7 (2015) 289-293. [DOI](https://doi.org/10.5028/jatm.v7i3.485){: .btn .btn--success}
 
-
-<p style="margin-bottom:.7cm;"></p>
-
-<h2>
-
-<font color="#2980b9">Book</font>
-
-</h2>
-
-<p style="margin-bottom:.3cm;"></p>
-
-
-- [Ferreira, F.V.](); Cividanes, L.S.; Brito, F.S.; Menezes, B.R.C.; Francisco, W.; Simonetti, E.A.N.;Thim, G.P. **Functionalizing Graphene and Carbon Nanotubes**. *Springer International Publishing* (2016) 1-61. [DOI](https://doi.org/10.1007/978-3-319-35110-0){: .btn .btn--success}
-
-
-<p style="margin-bottom:.7cm;"></p>
-
-<h2>
-
-<font color="#2980b9">Book Chapter</font>
-
-</h2>
-
-<p style="margin-bottom:.3cm;"></p>
-
-
-- [Ferreira, F.V.](); Francisco, W.; Menezes, B.R.C.; Biagioni, A.F.; Coutinho, A.R.; Cividanes, L.S. **Synthesis, Characterization, and Applications of Carbon Nanotubes. In Carbon-Based Nanofillers and Their Rubber Nanocomposites**. *Elsevier* (2019) 1-49. [DOI](https://doi.org/10.1016/B978-0-12-813248-7.00001-8){: .btn .btn--success}
