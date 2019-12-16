@@ -15,13 +15,14 @@ redirect_from:
 * {
   box-sizing: border-box;
 }
-
+	
+	
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+ /* height: 700px;  Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
@@ -31,14 +32,39 @@ redirect_from:
   clear: both;
 }
 </style>
-</head>
+</head> 
+
 
 <body>
-<p style="margin-bottom:2cm;"></p>
+ 
+<div class="row" style="background:transparent url('/images/tijolo.jpg') no-repeat center center /cover">
+<br>
 
 
-<div class="row" style="background:transparent url('/images/tijolo0.jpg') no-repeat center center /cover">
-<div class="column">
+
+	 <br>
+
+
+
+       	 <br>
+
+		 <br>
+
+ <br>
+
+
+
+ </br>
+	
+	
+
+ </br>
+
+ </br>   
+ </br>
+
+ </br>
+	<div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
   </div>
   <div class="column">
