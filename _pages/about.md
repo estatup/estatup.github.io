@@ -35,7 +35,7 @@ redirect_from:
 <p style="margin-bottom:2cm;"></p>
 
 
-<div class="row">
+<div class="row" style="background:transparent url('/images/tijolo0.jpg') no-repeat center center /cover">
 <div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
   </div>
