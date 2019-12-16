@@ -6,12 +6,6 @@ author_profile: true
 
 <div class="row" style="background:transparent url('/images/tijolo1.jpg') no-repeat center center /cover">
 
-<p style="margin-bottom:4cm;"></p>
-<h1>
-Publications
-</h1>
-<p style="margin-bottom:1cm;"></p>
-
 <p style="margin-bottom:.7cm;"></p>
 <h2>
    <font color="#2980b9">2019</font> 
