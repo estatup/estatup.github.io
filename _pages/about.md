@@ -37,7 +37,7 @@ redirect_from:
 
 <body>
  
-<div class="row" style="background:transparent url('/images/tijolo0.png') no-repeat center center /cover">
+<div class="row"  style="background-color:#e6e6e6;">
 <br>
 
 
