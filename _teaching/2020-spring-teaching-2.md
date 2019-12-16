@@ -1,10 +1,4 @@
 ---
-title: "Teaching experience 1"
-date: 2020-01-14
-
----
-
----
 title: "Inferência Estatística"
 layout: layout3
 date: 2015-01-01
