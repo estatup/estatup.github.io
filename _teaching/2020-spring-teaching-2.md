@@ -24,7 +24,13 @@ date: 2020-01-14
   * **Atendimento:** Sexta, 17h30-18h30.
 
 <p style="margin-bottom:1cm;"></p>
-<a href="https://estatup.github.io/files/paper1.pdf" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Lista 1</a>
+
+
+* <a href="https://estatup.github.io/files/paper1.pdf" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Lista 1</a>
+
+* [Lista 1](https://estatup.github.io/files/paper1.pdf)
+
+* Lista 1 ([link](https://estatup.github.io/files/paper1.pdf))
 
 <p style="margin-bottom:.7cm;"></p> 
 <h3>
