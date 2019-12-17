@@ -14,5 +14,6 @@ author_profile: true
 
 * [__Inferência Estatística 2__](https://estatup.github.io/teaching/2020-spring-teaching-2/)
 
-* __Inferência Estatística__[Enter](https://estatup.github.io/teaching/2020-spring-teaching-1/){: .btn .btn--success}
+* __Inferência Estatística__ [Enter](https://estatup.github.io/teaching/2020-spring-teaching-1/){: .btn .btn--success}
 
+* <button type="button" class="btn btn-primary btn-sm">Enter</button>
