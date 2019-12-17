@@ -18,4 +18,4 @@ author_profile: true
 
 * <button type="button" class="btn btn-primary btn-sm">Enter</button>
 
-* <a href="https://estatup.github.io/teaching/2020-spring-teaching-1/" class="btn btn-primary btn-sm" role="button" aria-pressed="true">Enter</a>
+* __Inferência Estatística__ <a href="https://estatup.github.io/teaching/2020-spring-teaching-1/" class="btn btn-primary btn-sm" role="button" aria-pressed="true">Enter</a>
