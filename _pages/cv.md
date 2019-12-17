@@ -7,28 +7,26 @@ redirect_from:
 ---
 
 <p style="margin-bottom:1cm;"></p>
-<h1>
-Curriculum vitae
-</h1>
+
+
 <p style="margin-bottom:1cm;"></p>
-
-Education
+<h2>
+<font color="#2980b9">Education</font>
+</h2>
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Chemical Engineering, University of Campinas, SP, Brazil (2020).
+* M.Sc. in Aeronautical and Mechanical Engineering, Technological Institute of 
+Aeronautics, SP, Brazil (2016).
+* B.SC. in Chemical Engineering, Methodist University of Piracicaba, SP, Brazil (2013). 
 
-Work experience
+<h2>
+<font color="#2980b9">Awards</font>
+</h2>
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* <font color="#2980b9">2019</font> Frans Habraken Best Paper Award 2019 - Elsevier (Applied Surface Science);
+* <font color="#2980b9">2015</font> Best Paper - Brazilian Conference of Chemical Engineering, Nanomaterials;
+* <font color="#2980b9">2013</font> Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
