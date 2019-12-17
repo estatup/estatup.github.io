@@ -49,7 +49,7 @@ Aeronautics, SP, Brazil (2016).
 * __2015:__ Best Paper - Brazilian Conference of Chemical Engineering, Nanomaterials;
 * __2013:__ Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.
 
-<li><a href="https://estatup.github.io/" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Download CV [PDF]</a></li>
+<a href="https://estatup.github.io/" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Download CV [PDF]</a>
 
 
 
