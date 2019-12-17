@@ -14,4 +14,4 @@ author_profile: true
 
 * [__Inferência Estatística 2__](https://estatup.github.io/teaching/2020-spring-teaching-2/)
 
-* [__Inferência Estatística__](https://estatup.github.io/teaching/2020-spring-teaching-1/)
+* [Inferência Estatística](https://estatup.github.io/teaching/2020-spring-teaching-1/)
