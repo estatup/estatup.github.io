@@ -25,6 +25,11 @@ date: 2020-01-14
 
 <p style="margin-bottom:1cm;"></p>
 
+<h2>
+
+<font color="#2980b9">Listas</font>
+
+</h2>
 
 * <a href="https://estatup.github.io/files/paper1.pdf" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Lista 1</a>
 
