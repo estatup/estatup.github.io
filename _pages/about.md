@@ -42,7 +42,7 @@ redirect_from:
 </h1>	
 
   <div class="column">
-    <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
+    <img class="img-circle" src="{{ site.baseurl }}images/capa.jpg" alt="Responsive image" width="450">
   </div>
   <div class="column">
      <p style='text-align: justify;'>Filipe V. Ferreira is a postdoc researcher at the School of Chemical Engineering at University of Campinas-Brazil. He has a background in synthesis and characterization of polymer (nano)composites for different applications. Specifically, he has been actively involved in research areas such as bone regeneration, wound healing, drug delivery, and biomedical packaging.</p>
