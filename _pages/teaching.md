@@ -8,7 +8,7 @@ author_profile: true
 
 <h2>
 
-<font color="#2980b9"> Lectures e Supervision</font>
+<font color="#2980b9"> Lectures</font>
 
 </h2>
 
