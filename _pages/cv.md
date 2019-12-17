@@ -36,10 +36,10 @@ redirect_from:
 <font color="#2980b9">Education</font>
 </h2>
 
-* Ph.D. in Chemical Engineering, University of Campinas, SP, Brazil (2020).
-* M.Sc. in Aeronautical and Mechanical Engineering, Technological Institute of 
+* __Ph.D.__ in Chemical Engineering, University of Campinas, SP, Brazil (2020).
+* __M.Sc.__ in Aeronautical and Mechanical Engineering, Technological Institute of 
 Aeronautics, SP, Brazil (2016).
-* B.SC. in Chemical Engineering, Methodist University of Piracicaba, SP, Brazil (2013). 
+* __B.SC.__ in Chemical Engineering, Methodist University of Piracicaba, SP, Brazil (2013). 
 
 <h2>
 <font color="#2980b9">Honors and Awards</font>
