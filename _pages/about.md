@@ -37,9 +37,9 @@ redirect_from:
 <body>
 	
 <div class="row">
-<h2>
+<h1>
 <font color="#2980b9">Filipe Vargas Ferreira, Ph.D.</font>
-</h2>	
+</h1>	
 
   <div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
