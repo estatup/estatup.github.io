@@ -7,11 +7,11 @@ date: 2020-01-14
 
 <p style="margin-bottom:2cm;"></p> 
 
-<h2>
+<h1>
 
 <font color="#2980b9">Inferência Estatística</font>
 
-</h2>
+</h1>
 
  
 * **Professor:** Filipe Vargas Ferreira
@@ -33,9 +33,9 @@ date: 2020-01-14
 * Lista 1 ([link](https://estatup.github.io/files/paper1.pdf))
 
 <p style="margin-bottom:.7cm;"></p> 
-<h3>
+<h2>
    <font color="#2980b9">Programa da disciplina</font> 
-</h3>
+</h2>
 <p style="margin-bottom:.3cm;"></p>
 
    - Modelos Estatísticos:
@@ -58,9 +58,9 @@ date: 2020-01-14
 
 
 <p style="margin-bottom:.7cm;"></p> 
-<h3>
+<h2>
    <font color="#2980b9">Referências Bibliográficas</font> 
-</h3>
+</h2>
 <p style="margin-bottom:.3cm;"></p>
 
 * Casella, G. and Berger, R. L. (2001). **Statistical Inference**. 2th Edition. Duxbury Press;
