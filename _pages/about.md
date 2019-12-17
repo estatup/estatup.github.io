@@ -38,9 +38,6 @@ redirect_from:
 	
 <div class="row">
 	
-<h2>
-<font color="#2980b9">Biography</font>
-</h2>
 
   <div class="column">
     <img class="img-circle" src="{{ site.baseurl }}images/azul.jpeg" alt="Responsive image" width="450">
