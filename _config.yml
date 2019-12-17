@@ -73,7 +73,7 @@ analytics:
 author:
   name             : "Filipe Vargas Ferreira"
   avatar           : "profile.png"
-  bio              : "Professor @ UNICAMP"
+  bio              : "Postdoc @ UNICAMP"
   location         : #"Campinas, SP - Brazil" # arrumar a localização no include/autor-profile
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
