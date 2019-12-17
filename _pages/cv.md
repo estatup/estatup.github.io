@@ -20,7 +20,7 @@ Aeronautics, SP, Brazil (2016).
 * B.SC. in Chemical Engineering, Methodist University of Piracicaba, SP, Brazil (2013). 
 
 <h2>
-<font color="#2980b9">Awards</font>
+<font color="#2980b9">Honors and Awards</font>
 </h2>
 
 * __2019__: Frans Habraken Best Paper Award 2019 - Elsevier (Applied Surface Science);
