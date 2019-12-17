@@ -12,10 +12,7 @@ author_profile: true
 
 </h2>
 
-[Inferência Estatística 2 ](https://estatup.github.io/teaching/2020-spring-teaching-2/)
+* [Inferência Estatística 2 ](https://estatup.github.io/teaching/2020-spring-teaching-2/)
 
-{% include base_path %}
+* [Inferência Estatística](https://estatup.github.io/teaching/2020-spring-teaching-1/)
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
