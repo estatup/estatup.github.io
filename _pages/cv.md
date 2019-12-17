@@ -20,7 +20,7 @@ Aeronautics, SP, Brazil (2016).
 * B.SC. in Chemical Engineering, Methodist University of Piracicaba, SP, Brazil (2013). 
 
 <h2>
-<font color="#2980b9">Awards</font>
+<font color="#2980b9">Funding Awards</font>
 </h2>
 
 * <p><font color="#2980b9">2019</font> Frans Habraken Best Paper Award 2019 - Elsevier (Applied Surface Science);</p>
@@ -37,24 +37,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
