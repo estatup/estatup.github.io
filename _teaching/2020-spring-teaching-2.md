@@ -7,11 +7,11 @@ date: 2020-01-14
 
 <p style="margin-bottom:2cm;"></p> 
 
-<h1>
+<h2>
 
 <font color="#2980b9">Inferência Estatística</font>
 
-</h1>
+</h2>
 
  
 * **Professor:** Filipe Vargas Ferreira
