@@ -28,13 +28,3 @@ Aeronautics, SP, Brazil (2016).
 * __2013__ Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-  
