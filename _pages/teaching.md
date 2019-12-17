@@ -12,7 +12,7 @@ author_profile: true
 
 </h2>
 
-* [Inferência Estatística 2 ](https://estatup.github.io/teaching/2020-spring-teaching-2/)
+* __[Inferência Estatística 2 ]__(https://estatup.github.io/teaching/2020-spring-teaching-2/)
 
-* [Inferência Estatística](https://estatup.github.io/teaching/2020-spring-teaching-1/)
+* __[Inferência Estatística]__(https://estatup.github.io/teaching/2020-spring-teaching-1/)
 
