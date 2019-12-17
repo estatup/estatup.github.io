@@ -49,13 +49,6 @@ Aeronautics, SP, Brazil (2016).
 * __2015:__ Best Paper - Brazilian Conference of Chemical Engineering, Nanomaterials;
 * __2013:__ Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.
 
-<h2>
-<font color="#2980b9">Spoken Languages</font>
-</h2>
-
-* __Portuguese__ - Mother Tongue.
-* __English__ - Proficient User;
-* __German__ - Basic (A2 onDaF test).
 
 <p style="margin-bottom:1cm;"></p>
 <a href="https://estatup.github.io/" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Download CV [PDF]</a>
