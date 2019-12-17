@@ -23,9 +23,9 @@ Aeronautics, SP, Brazil (2016).
 <font color="#2980b9">Awards</font>
 </h2>
 
-* <p>*2019* Frans Habraken Best Paper Award 2019 - Elsevier (Applied Surface Science);</p>
-* <p>*2015* Best Paper - Brazilian Conference of Chemical Engineering, Nanomaterials;</p>
-* <p>*2013* Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.</p>
+* __2019__ Frans Habraken Best Paper Award 2019 - Elsevier (Applied Surface Science);
+* __2015__ Best Paper - Brazilian Conference of Chemical Engineering, Nanomaterials;
+* __2013__ Distinction Summa cum Laude - GPA 9.6/10, Methodist University of Piracicaba.
 
   
 Skills
