@@ -6,7 +6,7 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-lg fa-home"></i></a>
+          <li class="navbar-brand"><a href="{{ base_path }}/"><i class="fa fa-lg fa-home"></i></a></li>
             {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
