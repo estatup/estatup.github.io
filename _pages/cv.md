@@ -53,9 +53,9 @@ Aeronautics, SP, Brazil (2016).
 <font color="#2980b9">Spoken Languages</font>
 </h2>
 
-* Portuguese - Mother Tongue.
-* English - Proficient User;
-* German - Basic (A2 onDaF test).
+* __Portuguese__ - Mother Tongue.
+* __English__ - Proficient User;
+* __German__ - Basic (A2 onDaF test).
 
 <p style="margin-bottom:1cm;"></p>
 <a href="https://estatup.github.io/" target="_blank"><i class="fa fa-download" aria-hidden="true"></i> Download CV [PDF]</a>
